@@ -14,7 +14,7 @@ A Crime Data Analysis project focused on US crime Incidents happened in 2024 dat
 
 ## Key Outcomes:
 - Districts 3, 2, and 5 were identified as most vulnerable to crimes.
-- Crimes occurred most frequently during the evening shift.
+- Crimes occurred more frequently during the evening shift.
 - "Other(Non-Specific)", "Gun", and "Knife" were the top three crime methods recorded.
 
 ## Visuals:
